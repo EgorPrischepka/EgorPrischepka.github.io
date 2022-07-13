@@ -1,6 +1,3 @@
-<html>
-<title>Ass We Can</title>
-<body>
-<center>Ass We Can</center>
-</body>
-</html>
+<?php
+  echo 'Сейчас:       '. date('Y-m-d');
+?>
